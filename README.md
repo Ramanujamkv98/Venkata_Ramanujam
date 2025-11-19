@@ -31,7 +31,7 @@ Tech Used: Python, Pandas, Scikit-learn, Streamlit.
 Tech Used: SQL, Excel Modeling, Power Bi, Six Sigma (DMAIC).
 
 
-🔹 ChatGPT Business Analyst Assistant (OpenAI + Jira Integration)
+🔹  Business Analyst Assistant (OpenAI + Jira Integration)
 
 1.Built an AI-powered assistant that automates business requirement creation using GPT-4o and Jira REST API.
 
