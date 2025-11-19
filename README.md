@@ -11,24 +11,22 @@ I'm passionate about SQL, KPI analytics, and predictive analytics, and I'm activ
 
 🔹 Supply Chain Replenishment Tool (Predictive Modeling)
 
-Developed a predictive replenishment dashboard using linear regression for semiconductor spare-parts.
+1.Developed a predictive replenishment dashboard using linear regression for semiconductor spare-parts.
 
-Improved reorder-point accuracy by 15% and supported more reliable material planning.
+2.Improved reorder-point accuracy by 15% and supported more reliable material planning.
 
-Designed a clean data pipeline for preparation, model training, and evaluation.
+3.Designed a clean data pipeline for preparation, model training, and evaluation.
 
 Tech Used: Python, Pandas, Scikit-learn, Streamlit.
 
 
 🔹 HonorHealth Inventory Optimization (40K+ SKUs)
 
-Normalized Premier + Workday ERP data to build structured demand models across 40K medical supplies.
+1.Normalized Premier + Workday ERP data to build structured demand models across 40K medical supplies.
 
-Delivered PAR-level insights for 5 hospital sites, improving replenishment accuracy and stock visibility.
+2.Delivered PAR-level insights for 5 hospital sites, improving replenishment accuracy and stock visibility.
 
-Reduced overstock variance by 18% by identifying transfer and reorder opportunities.
-
-Applied Lean Six Sigma DMAIC to streamline workflows and improve space utilization.
+3.Reduced overstock variance by 18% by identifying transfer and reorder opportunities.
 
 Tech Used: SQL, Excel Modeling, Power Bi, Six Sigma (DMAIC).
 
