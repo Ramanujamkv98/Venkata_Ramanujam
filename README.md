@@ -2,7 +2,7 @@
 
 I'm a Data Analyst and MSBA student at ASU, graduating in December 2025, with experience across healthcare, fintech, and ed-tech analytics. Before joining the MSBA program, I worked in roles spanning business intelligence, analytics, where I built dashboards, automated reporting pipelines, and delivered insights that improved retention, attribution accuracy, and campaign ROI.
 
-During the week, I work on structured academic and real-world analytics projects—from inventory optimization at HonorHealth to supply chain forecasting tools and AI-driven business analyst assistants. On weekends, I’m a tinkerer, experimenting with small AI, automation, and data projects that help me learn faster and build better.
+For the last one year, I’ve been immersed in structured academic and real-world analytics work through my MSBA program. During the weekends, I’m a tinkerer—exploring small AI, automation, and data projects simply because I’m passionate about building, learning, and improving through hands-on experimentation.
 
 I'm passionate about SQL, KPI analytics, and predictive analytics, and I'm actively exploring how modern data stack concepts can enhance real-world decision-making.
 
