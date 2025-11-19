@@ -2,44 +2,34 @@
 
 ## 🚀 Projects
 
-<details>
-<summary><b>🔹 ChatGPT Business Analyst Assistant (OpenAI + Jira Integration)</b></summary>
+🔹 ChatGPT Business Analyst Assistant (OpenAI + Jira Integration)
 
-- Built an AI-powered assistant that automates business requirement creation using GPT-4o and Jira REST API.
-- Generates user stories, acceptance criteria, and Jira-ready tickets to reduce manual drafting effort by 30%.
-- Designed structured prompt flows and benchmarking tests that improved output consistency by 25%.
-- Tech Used: Python, OpenAI API, Jira REST API, Prompt Engineering.
+Built an AI-powered assistant that automates business requirement creation using GPT-4o and Jira REST API.
 
-</details>
+Generates user stories, acceptance criteria, and Jira-ready tickets to reduce manual drafting effort by 30%.
 
-<details>
-<summary><b>🔹 Supply Chain Replenishment Tool (Predictive Modeling)</b></summary>
+Designed structured prompt flows and benchmarking tests that improved output consistency by 25%.
 
-- Developed a predictive replenishment dashboard using linear regression for semiconductor spare-parts.
-- Improved reorder-point accuracy by 15% and supported more reliable material planning.
-- Designed a clean data pipeline for preparation, model training, and evaluation.
-- Tech Used: Python, Pandas, Scikit-learn, Streamlit.
+Tech Used: Python, OpenAI API, Jira REST API, Prompt Engineering.
 
-</details>
+🔹 Supply Chain Replenishment Tool (Predictive Modeling)
 
-<details>
-<summary><b>🔹 HonorHealth Inventory Optimization (40K+ SKUs)</b></summary>
+Developed a predictive replenishment dashboard using linear regression for semiconductor spare-parts.
 
-- Normalized Premier + Workday ERP data to build structured demand models across 40K medical supplies.
-- Delivered PAR-level insights for 5 hospital sites, improving replenishment accuracy and stock visibility.
-- Reduced overstock variance by 18% by identifying transfer and reorder opportunities.
-- Applied Lean Six Sigma DMAIC to streamline workflows and improve space utilization.
-- Tech Used: SQL, Excel Modeling, Tableau, Six Sigma (DMAIC).
+Improved reorder-point accuracy by 15% and supported more reliable material planning.
 
-</details>
+Designed a clean data pipeline for preparation, model training, and evaluation.
 
-<details>
-<summary><b>🔹 Yelp NLP Topic Classification (Sentiment + Topic Modeling)</b></summary>
+Tech Used: Python, Pandas, Scikit-learn, Streamlit.
 
-- Created a sentiment and topic classification system using TF-IDF, logistic regression, and SVM models.
-- Achieved strong classification accuracy across 100+ review samples with detailed evaluation metrics.
-- Visualized sentiment distributions and key drivers influencing restaurant feedback.
-- Tech Used: Python, Pandas, Scikit-learn, NLP.
+🔹 HonorHealth Inventory Optimization (40K+ SKUs)
 
-</details>
+Normalized Premier + Workday ERP data to build structured demand models across 40K medical supplies.
 
+Delivered PAR-level insights for 5 hospital sites, improving replenishment accuracy and stock visibility.
+
+Reduced overstock variance by 18% by identifying transfer and reorder opportunities.
+
+Applied Lean Six Sigma DMAIC to streamline workflows and improve space utilization.
+
+Tech Used: SQL, Excel Modeling, Tableau, Six Sigma (DMAIC).
