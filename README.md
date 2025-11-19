@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=0A66C2&width=900&lines=Analyst+%7C+Digital+Transformation+and+Analytics;SQL+•+Tableau+•+Predictive+and+Descriptive+Analytics;MSBA+ASU+(Dec+2025))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0A66C2&width=900&lines=Analyst;SQL+%E2%80%A2+Tableau+%E2%80%A2+Predictive+and+Descriptive+Analytics;MSBA+ASU+(Dec+2025))
