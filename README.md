@@ -1,4 +1,4 @@
-<h2 align="center">Analyst | SQL • Tableau • Predictive & Descriptive Analytics | MSBA ASU (Dec 2025)</h2>
+<h2 align="center">Analyst |• NumPy,Pandas • SQL • Power BI • Tableau • Predictive & Descriptive Analytics | MSBA ASU (Dec 2025)</h2>
 
 I'm a Data Analyst and MSBA student at ASU, graduating in December 2025, with experience across healthcare, fintech, and ed-tech analytics. Before joining the MSBA program, I worked in roles spanning business intelligence, analytics, where I built dashboards, automated reporting pipelines, and delivered insights that improved retention, attribution accuracy, and campaign ROI.
 
@@ -9,7 +9,8 @@ I'm passionate about SQL,Meaninful KPI design, and predictive analytics, and I'm
 ## 🚀 Projects
 
 🔹Google Cloud ETL Pipeline(Google cloud + Looker Studio + SQL ) 
-Built End-to-end GCP ETL pipeline that converts raw event data into analytics-ready marts and dashboards, using BigQuery SQL + window functions to quantify funnel drop-offs and surface optimization opportunities.
+
+1.Built End-to-end GCP ETL pipeline that converts raw event data into analytics-ready marts and dashboards, using BigQuery SQL + window functions to quantify funnel drop-offs and surface optimization opportunities.
 
 🔹 Supply Chain Replenishment Tool (Predictive Modeling)
 
