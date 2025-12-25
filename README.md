@@ -4,10 +4,12 @@ I'm a Data Analyst and MSBA student at ASU, graduating in December 2025, with ex
 
 For the last one year, I’ve been immersed in structured academic and real-world analytics work through my MSBA program. During the weekends, I’m a tinkerer—exploring small AI, automation, and data projects simply because I’m passionate about building, learning, and improving through hands-on experimentation.
 
-I'm passionate about SQL, KPI analytics, and predictive analytics, and I'm actively exploring how modern data stack concepts can enhance real-world decision-making.
+I'm passionate about SQL,Meaninful KPI design, and predictive analytics, and I'm actively exploring how modern data stack can enhance real-world decision-making.
 
 ## 🚀 Projects
 
+🔹Google Cloud ETL Pipeline(Google cloud + Looker Studio + SQL ) 
+Built End-to-end GCP ETL pipeline that converts raw event data into analytics-ready marts and dashboards, using BigQuery SQL + window functions to quantify funnel drop-offs and surface optimization opportunities.
 
 🔹 Supply Chain Replenishment Tool (Predictive Modeling)
 
